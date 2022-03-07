@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/OyakSaile/RocketSeat-IGNITE/tree/dt-money" target="_blank">
-<h1>DT.MONEY</h1>
+DT.MONEY
 </a>
 
 
